@@ -1,0 +1,25 @@
+[
+  {
+    "id": "ancient",
+    "name": "Ancient India",
+    "icon": "ic_ancient.xml",
+    "chapters": [
+      {
+        "id": "indus_valley",
+        "title": "Indus Valley Civilization",
+        "file_url": "https://<your-username>.github.io/aarambh-content/ancient/indus_valley.html"
+      },
+      {
+        "id": "vedic_period",
+        "title": "Vedic Period",
+        "file_url": "https://<your-username>.github.io/aarambh-content/ancient/vedic_period.html"
+      }
+    ]
+  },
+  {
+    "id": "medieval",
+    "name": "Medieval India",
+    "icon": "ic_medieval.xml",
+    "chapters": []
+  }
+]
